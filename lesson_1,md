@@ -12,4 +12,17 @@ The picture above is what my computer looks like
 Q1 What are the variables in computer scinece?
 
 In computer science, the variable is a storage location paired with an associated symbolic name which contains a value
+
 Q2 What are the types of variables in python
+
+string letter 
+integer whole number
+float decimal
+boolean true or false
+
+The four types of computational thinking is:
+
+Decomposition
+Pattern recognition
+Abstraction
+Algorithmic thinking
